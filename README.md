@@ -1,6 +1,6 @@
 # 👨‍💻 [Your Name](https://www.linkedin.com/in/suprojit-mallick-462437311)  
 
-Welcome to my GitHub profile! I'm a passionate software developer with expertise in [Your Key Areas of Expertise]. Feel free to explore my repositories and connect with me if you'd like to collaborate!
+Welcome to my GitHub profile! I'm a Bsc Computer Science Student aspiring towards Cybersecurity Profession and loves Coding & Problem Solving. Feel free to explore my repositories and connect with me if you'd like to collaborate!
 
 ---
 
@@ -60,9 +60,9 @@ Here are some of the key projects I've worked on:
 Here are some of the programming languages, frameworks, and tools I am proficient in:
 
 - **Languages**:  
-  - [Programming Language 1]  
-  - [Programming Language 2]  
-  - [Programming Language 3]  
+  - Java
+  - C
+  - Python
 
 - **Frameworks/Technologies**:  
   - [Framework 1]  
@@ -75,9 +75,9 @@ Here are some of the programming languages, frameworks, and tools I am proficien
   - [Tool 3]  
 
 - **Other Skills**:  
-  - [Skill 1]  
-  - [Skill 2]  
-  - [Skill 3]  
+  - HTML & CSS
+  - MS Excell
+  - [Skill 3]
 
 ---
 
