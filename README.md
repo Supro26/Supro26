@@ -84,7 +84,7 @@ Here are some of the programming languages, frameworks, and tools I am proficien
 ## 📫 How to Reach Me
 
 - **Email**: [My email](suprojitmallick2006@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-link)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/your-profile-link)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/suprojit-mallick-462437311)
+- **Twitter**: [My Twitter Profile](https://x.com/supM206)
 
 Feel free to reach out if you have any questions or want to collaborate!
