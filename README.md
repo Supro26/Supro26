@@ -1,6 +1,6 @@
 # 👨‍💻 [Suprojit Mallick](https://www.linkedin.com/in/suprojit-mallick-462437311)  
 
-Welcome to my GitHub profile! I'm a Bsc Computer Science Student aspiring towards Cybersecurity Profession and loves Coding & Problem Solving. Feel free to explore my repositories and connect with me if you'd like to collaborate!
+Welcome to my GitHub profile! I'm a Bsc Computer Science Student aspiring towards Cybersecurity Profession who loves Coding & Problem Solving. Feel free to explore my repositories and connect with me if you'd like to collaborate!
 
 ---
 
