@@ -14,12 +14,9 @@ You can download my resume in PDF format from the link below:
 
 ## 🎓 Education
 
-- **[Degree Name]** in [Your Major]  
-  [University Name], [Location] — [Year Started] to [Year Ended or Expected Graduation]
+- **Bsc** in Computer Science   
+  Ramakrishna Mission Vivekananda Centenary College, West Bengal, Khardaha — 2024 to 2028
   
-- **[Degree Name]** in [Your Major]  
-  [University Name], [Location] — [Year Started] to [Year Ended or Expected Graduation]
-
 ---
 
 ## 💻 Projects
