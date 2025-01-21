@@ -14,7 +14,7 @@ You can download my resume in PDF format from the link below:
 
 ## 🎓 Education
 
-- **Bsc** in Computer Science   
+- **[Bsc]** in [Computer Science]   
   Ramakrishna Mission Vivekananda Centenary College, West Bengal, Khardaha — 2024 to 2028
   
 ---
