@@ -34,7 +34,7 @@ The goal of the audit is to provide an overview of the risks and/or fines that t
 
 My task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
 - **Technologies Used**: NONE.
-- **Link of the report**: [https://in.docworkspace.com/d/sIByR5bq4AfumvbwG](#)  
+- **Link of the report**: [https://in.docworkspace.com/d/sIC-R5bq4AcaovbwG](#)  
 - **Features**:  
     - Feature 1  
     - Feature 2  
