@@ -69,6 +69,7 @@ Here are some of the programming languages, frameworks, and tools I am proficien
   - Java
   - C
   - Python
+  - SQL
 
 - **Frameworks/Technologies**:  
   - [Framework 1]  
