@@ -43,8 +43,8 @@ My task is to review the IT manager’s scope, goals, and risk assessment report
 
 ### 🚀 [Network Incident Report Analysis](#)  
 - **Description**:This scenario is based on a fictional company:
-- 
--  I am a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses.Our organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
+
+I am a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses.Our organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
 
 During the attack, your organization’s network services suddenly stopped responding due to an incoming flood of ICMP packets.The incident management team responded by blocking incoming ICMP packets.
 
