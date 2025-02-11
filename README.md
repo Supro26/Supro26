@@ -41,14 +41,19 @@ My task is to review the IT manager’s scope, goals, and risk assessment report
     - Feature 2  
     - Feature 3  
 
-### 🚀 [Project 2 Name](#)  
-- **Description**: Brief description of the project.
-- **Technologies Used**: [Tech 1], [Tech 2], [Tech 3]  
-- **Link**: [Project URL](#)  
+### 🚀 [Network Incident Report Analysis](#)  
+- **Description**:This scenario is based on a fictional company:
+- 
+-  I am a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses.Our organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
+
+During the attack, your organization’s network services suddenly stopped responding due to an incoming flood of ICMP packets.The incident management team responded by blocking incoming ICMP packets.
+
+As a cybersecurity analyst, i am tasked with using this security event to create a plan to improve my company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)
+- **Technologies Used**: NIST Framework 
+- **Link**: [Project URL](https://docs.google.com/document/d/13ExF50Ki1qy7QqAQUwioP_GNw72zv8p0Ufka2meTTaY/edit?usp=sharing)  
 - **Features**:  
-    - Feature 1  
-    - Feature 2  
-    - Feature 3  
+    - Security Hardening 
+    - IDS/IPS
 
 ### 🚀 [Project 3 Name](#)  
 - **Description**: Brief description of the project.
