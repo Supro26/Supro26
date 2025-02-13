@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Bsc Computer Science Student aspiring toward
 
 You can download my resume in PDF format from the link below:
 
-- [Download Resume](#)
+- [Download Resume](https://in.docworkspace.com/d/sIMGR5bq4AdfjuL0G)
 
 ---
 
