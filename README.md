@@ -35,8 +35,10 @@ The goal of the audit is to provide an overview of the risks and/or fines that t
 
 My task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
 - **Technologies Used**: NONE.
-- **Link**: [Report URL](https://in.docworkspace.com/d/sIC-R5bq4AcaovbwG)
-- **Link**: [Project URL](https://in.docworkspace.com/d/sIDGR5bq4AbGvvbwG)  
+- **Link**: [Report URL](https://github.com/user-attachments/files/18920723/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
+
+- **Link**: [Project URL](https://github.com/user-attachments/files/18920720/Controls.and.compliance.checklist.1.pdf)
+
 - **Features**:  
     - Feature 1  
     - Feature 2  
