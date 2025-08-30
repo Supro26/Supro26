@@ -81,22 +81,23 @@ Here are some of the programming languages, frameworks, and tools I am proficien
   - Java
   - C
   - Python
-  - SQL
+  - C++
 
 - **Frameworks/Technologies**:  
-  - [Framework 1]  
+  - Metasploit  
   - [Framework 2]  
   - [Framework 3]  
 
 - **Tools**:  
-  - [Tool 1]  
-  - [Tool 2]  
-  - [Tool 3]  
+  - gobuster  
+  - hydra  
+  - ffuf
+  - hashcat  
 
 - **Other Skills**:  
   - HTML & CSS
   - MS Excell
-  - [Skill 3]
+  - SQL
 
 ---
 
