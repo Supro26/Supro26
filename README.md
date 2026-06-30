@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Bsc Computer Science Student aspiring toward
 
 You can download my resume in PDF format from the link below:
 
-- [Download Resume](https://github.com/user-attachments/files/18920695/Simple.Modern.Free.Resume.Template.pdf)
+- [Download Resume](https://github.com/user-attachments/files/29489316/Suprojit.Mallick_CybSec.pdf)
 
 
 ---
@@ -85,18 +85,18 @@ Here are some of the programming languages, frameworks, and tools I am proficien
 
 - **Frameworks/Technologies**:  
   - Metasploit  
-  - [Framework 2]  
-  - [Framework 3]  
+  - Django  
+  - Next 
 
 - **Tools**:  
-  - gobuster  
+  - Burp Suite 
   - hydra  
-  - ffuf
-  - hashcat  
+  - Wireshark
+  - CSRFShark  
 
 - **Other Skills**:  
-  - HTML & CSS
-  - MS Excell
+  - R
+  - AWS
   - SQL
 
 ---
