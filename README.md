@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Bsc Computer Science Student aspiring toward
 
 You can download my resume in PDF format from the link below:
 
-- [Download Resume](https://github.com/user-attachments/files/29489316/Suprojit.Mallick_CybSec.pdf)
+- [Download Resume](https://github.com/user-attachments/files/29489316/Suprojit.Mallick_CybSec.pdf) (2025)
 
 
 ---
