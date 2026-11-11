@@ -58,18 +58,21 @@ As a cybersecurity analyst, i am tasked with using this security event to create
     - Security Hardening 
     - IDS/IPS
 
-### 🚀 [Use Linux commands to manage file permissions](#)  
-- **Description**:This scenario is based on a fictional company:
 
- I am a security professional at a large organization. I mainly work with their research team. Part of my job is to ensure users on this team are authorized with the appropriate permissions. This helps keep the system secure. 
+### 🚀 [DOM-based Cross-Site Scripting (XSS)](https://portswigger.net/web-security/cross-site-scripting/dom-based)
 
-My task is to examine existing permissions on the file system. I’ll need to determine if the permissions match the authorization that should be given. If they do not match, I’ll need to modify the permissions to authorize the appropriate users and remove any unauthorized access.
-- **Technologies Used**: [Google Quiklabs]  
-- **Link**: [Project URL](https://github.com/user-attachments/files/18901690/File.permissions.in.Linux.docx)
-- **Features**:  
-    - Permission Analysis  
-    - File/Directory Permission Management 
-    - User & Group Management  
+- **Description:** Completed a hands-on lab on DOM-based Cross-Site Scripting (XSS) through PortSwigger Web Security Academy. Explored how client-side JavaScript handles untrusted data and how insecure DOM manipulation can introduce XSS vulnerabilities.
+
+- **Technologies Used:** JavaScript, DOM, Burp Suite
+
+- **Platform:** [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+
+- **Features:**
+    - Understanding DOM-based XSS vulnerabilities
+    - Identifying unsafe sources and sinks in client-side JavaScript
+    - Analysing how user-controlled input reaches DOM execution contexts
+    - Exploiting a DOM-based XSS vulnerability in a controlled lab environment
+
 
 ---
 
